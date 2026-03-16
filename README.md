@@ -1,18 +1,19 @@
-# AI Task Platform Showcase
+# AI 接单平台 / AI Task Platform Showcase
 
-This folder is the public-facing showcase only.
+这是公开展示目录，用来展示产品定位和页面效果。  
+This folder is the public-facing showcase for product positioning and interface presentation.
 
-It contains:
+包含内容 / It contains:
 
-- product positioning
-- page previews
-- platform workflow
-- public contact information
+- 产品定位 / Product positioning
+- 页面预览 / Page previews
+- 平台流程 / Platform workflow
+- 对外联系信息 / Public contact information
 
-It does not contain:
+不包含内容 / It does not contain:
 
-- private source code
-- backend logic
-- execution scripts
-- orchestration internals
-- sensitive configuration
+- 私有源码 / Private source code
+- 后端逻辑 / Backend logic
+- 执行脚本 / Execution scripts
+- 调度内部细节 / Orchestration internals
+- 敏感配置 / Sensitive configuration
